@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @DHIRAJ540
-- 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning Creating websites
-- 💞️ I’m looking to collaborate on Website Designing
-- 📫 How to reach me Dhirajsubudhi540@gmail.com
+- 👋 Hi, I’m Dhiraj
+- I am a developer
+- I create amazing websites and apps
+
 
 
 <!---
